@@ -1,0 +1,6 @@
+get input of numbers into nums (array)
+set sum to be 0
+foreach number in nums
+	square the number
+	add the square to sum
+return sum
