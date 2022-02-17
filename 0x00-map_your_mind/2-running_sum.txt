@@ -1,0 +1,6 @@
+READ number from USER INPUT
+set sum as 0
+WHILE number >= 0
+    ADD number to sum
+    READ number from USER INPUT
+WRITE sum
